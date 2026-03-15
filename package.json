@@ -1,0 +1,25 @@
+{
+  "name": "ai-agent-metrics-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard for tracking AI agent performance, costs, and reliability metrics",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/test.js",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "metrics",
+    "dashboard",
+    "monitoring"
+  ],
+  "author": "The BookMaster",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0"
+  }
+}
