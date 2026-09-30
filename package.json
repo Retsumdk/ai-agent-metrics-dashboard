@@ -16,7 +16,7 @@
     "dashboard",
     "monitoring"
   ],
-  "author": "The BookMaster",
+  "author": "Retsumdk",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.10.0",
